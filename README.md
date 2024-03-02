@@ -12,9 +12,7 @@
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKJJDD&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=hellokorea&show_icons=true&theme=default)
 
 
 <!--
