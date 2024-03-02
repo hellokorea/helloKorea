@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=300&section=header&text=Wellcome%20My%20GitHub&fontSize=70" />
 
 # Intro
-### Hello !
+안녕하세요. 게임 기획자 5년차 때 그만두고 지금은 신입 백엔드 개발자를 준비하고 있습니다.  
+잘 부탁드립니다!😀
+
 
 
 # Skill
@@ -13,6 +15,7 @@
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+# Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hellokorea&show_icons=true&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellokorea&layout=compact" />
