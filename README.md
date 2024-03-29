@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=300&section=header&text=Wellcome%20My%20GitHub&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=150&section=header&text=Wellcome%20My%20GitHub&fontSize=70" />
 
 # Intro
 안녕하세요. 게임 기획자 5년차 때 그만두고 지금은 신입 백엔드 개발자를 준비하고 있습니다.  
