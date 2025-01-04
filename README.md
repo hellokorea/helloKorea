@@ -20,5 +20,3 @@
 ## 📚 Education
 
 📌 **LG U+** - LG U+ 유레카 백엔드 1기 (2024.06 ~ 2024.12) [:link:](https://velog.io/@kjdev/LG-U-%EC%9C%A0%EB%A0%88%EC%B9%B4-%EB%B0%B1%EC%97%94%EB%93%9C-1%EA%B8%B0-%EC%88%98%EB%A3%8C-%ED%9A%8C%EA%B3%A0)
-
-<br>
