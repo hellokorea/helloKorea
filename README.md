@@ -4,6 +4,10 @@
 
 비즈니스 가치를 창출하고 해결하는 개발자가 되기 위해 끊임없이 노력합니다.
 
+<br>
+
+<img alt="Coder GIF" height=150 width=250 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
+
 ## 🛠️ Skill 
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
